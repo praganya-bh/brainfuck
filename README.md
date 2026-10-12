@@ -1,5 +1,9 @@
 # Brainfuck Compiler & Interpreter written in C++
 
+Interpreter reads the brainfuck program and executes it directly against a 30,000-cell tape
+Compiler translates the brainfuck file into an equivalent C program
+
+
 ## Building
 
 ```sh
