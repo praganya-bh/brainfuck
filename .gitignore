@@ -1,0 +1,5 @@
+run_bf.bat
+out.c
+brainfuck.code-workspace
+c_cpp_properties.json
+in.bf
